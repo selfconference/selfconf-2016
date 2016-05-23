@@ -126,6 +126,7 @@ Cate Huston
 [Sarah Withee](https://twitter.com/geekygirlsarah)
 
 Slides - [https://github.com/geekygirlsarah/talk-a_primer_on_functional_programming](https://github.com/geekygirlsarah/talk-a_primer_on_functional_programming)
+
 Video - Will be posted shortly
 
 ### Your App in Spotlight: Harnessing the Power of the Search APIs

@@ -2,8 +2,11 @@
 
 Resources from Self.conference 2016!
 
+- [selfconference.org](http://www.selfconference.org)
 - [sessions](http://www.selfconference.org/sessions)
 - [schedule](http://www.selfconference.org/schedule)
+- [@selfconference](https://twitter.com/selfconference)
+- [#selfconf](https://twitter.com/hashtag/selfconf)
 
 # Friday 5/20
 

@@ -56,7 +56,9 @@ Tracy Osborn
 ## 2pm
 
 ### Feedback and Challenging Conversations
-Alex Harms
+[Alex Harms](https://twitter.com/onealexharms)
+
+- https://www.youtube.com/watch?v=6jGfZSuIbVw
 
 ### Improve your Bash command line fu
 Jarred Olson

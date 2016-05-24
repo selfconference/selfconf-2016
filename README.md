@@ -109,6 +109,8 @@ Bryan Hughes
 ### Exploiting Swift for Fun and Profit
 Jon Shier
 
+[Exploiting Swift for Fun and Profit on YouTube](https://www.youtube.com/watch?v=wuaDk9eKm1A)
+
 ## 11am
 
 ### How to Build a Compelling Watch App

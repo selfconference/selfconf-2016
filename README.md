@@ -14,17 +14,17 @@ Resources from Self.conference 2016!
 ## Keynote
 
 ### Reproducibility
-Gary Bernhardt
+Gary Bernhardt [@garybernhardt](https://twitter.com/garybernhardt)
 
 ## 10am
 
 ### Intro to Azure Machine Learning: Predict Who Survives the Titanic
 
-Jennifer Marsman
+Jennifer Marsman [@jennifermarsman](https://twitter.com/jennifermarsman)
 
 ### Anatomy of a Great Pull Request
 
-Sean Griffin
+Sean Griffin [@sgrif](https://twitter.com/sgrif)
 
 ### Pairing IRL
 
@@ -38,7 +38,7 @@ Matthew LaForest
 
 ### 30 minute byte-loss challenge; essentials for delivering the lightest iOS apps
 
-Jake Payton
+Jake Payton [@JakePayton](https://twitter.com/JakePayton)
 
 ### A Call to Arms: Challenging & Democratizating Algorithm Development
 
@@ -63,7 +63,10 @@ Tracy Osborn
 - https://www.youtube.com/watch?v=6jGfZSuIbVw
 
 ### Improve your Bash command line fu
-Jarred Olson
+Jarred Olson [@JarredOlson](https://twitter.com/JarredOlson)
+
+* [slides](http://www.jarredolson.com/speaking/command_line_fu/Improve_Your_Command_Line_Fu.pdf) (pdf)
+* [code](https://github.com/JarredOlson/command-line-fu)
 
 ### Truths Universally Acknowledged: Swift Design Patterns as Jane Austen Heroes
 Anne Cahalan
@@ -71,13 +74,16 @@ Anne Cahalan
 ## 3pm
 
 ### Becoming Less Horrible at Diversity
-Katie Miller, Todd Kaufman
+Katie Miller [@phedinkus](https://twitter.com/phedinkus), Todd Kaufman [@toddkaufman](https://twitter.com/toddkaufman)
 
 ### Inclusion & Accessibility on the Web: Harnessing Dev Power for Good
 Alison Stanton
 
 ### The Human Context: Exploring Google’s Nearby APIs
-Stuart Kent
+Stuart Kent [@skentphd](https://twitter.com/skentphd)
+
+* [video](https://www.youtube.com/watch?v=fKSqMsCTDiI)
+* [slides](https://speakerdeck.com/stkent/the-human-context-exploring-googles-nearby-api)
 
 ## 4pm
 
@@ -89,7 +95,7 @@ KWu ([@kwugirl](https://twitter.com/kwugirl))
 * [Blog post with resources and slides](http://kwugirl.blogspot.com/2015/10/continuing-education-at-work-talk.html)
 
 ### Debugging Diversity
-Anjuan Simmons
+Anjuan Simmons [@anjuan](https://twitter.com/anjuan)
 
 # Saturday 5/21
 

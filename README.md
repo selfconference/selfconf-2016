@@ -125,7 +125,9 @@ Brandy Foster, Kyle Ofori
 ## 1pm
 
 ### Some Things I've Learned About Color
-Cate Huston
+Cate Huston [@catehstn](https://twitter.com/catehstn)
+
+* [storify](https://storify.com/catehstn/some-things-i-ve-learned-about-color-5740a7c2ee2c3624642eaf05)
 
 ### A Primer on Functional Programming
 [Sarah Withee](https://twitter.com/geekygirlsarah)

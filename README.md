@@ -42,7 +42,9 @@ Jake Payton
 
 ### A Call to Arms: Challenging & Democratizating Algorithm Development
 
-Liz Rush
+Liz Rush - [Twitter](https://twitter.com/lizmrush), [Website](https://lizmrush.com)
+
+ - [Slides](https://speakerdeck.com/lizrush/self-dot-conference-challenging-and-democratizing-algorithm-development)
 
 ## 1pm
 

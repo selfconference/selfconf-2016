@@ -83,7 +83,8 @@ Stuart Kent
 David Case, James York
 
 ### Continuing Education at Work
-KWu
+KWu ([@kwugirl](https://twitter.com/kwugirl))
+* [Blog post with resources and slides](http://kwugirl.blogspot.com/2015/10/continuing-education-at-work-talk.html)
 
 ### Debugging Diversity
 Anjuan Simmons

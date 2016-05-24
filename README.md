@@ -104,10 +104,10 @@ Katrina Owen
 Liz Abinante
 
 ### API Design Through the Lens of Photography
-Bryan Hughes
+Bryan Hughes [@nebrius](https://twitter.com/nebrius)
 
 ### Exploiting Swift for Fun and Profit
-Jon Shier
+Jon Shier [@jshier](https://twitter.com/jshier)
 
 [Exploiting Swift for Fun and Profit on YouTube](https://www.youtube.com/watch?v=wuaDk9eKm1A)
 
@@ -117,10 +117,10 @@ Jon Shier
 Kristina Thai
 
 ### Redefining Culture Fit
-Casey West
+Casey West [@caseywest](https://twitter.com/caseywest)
 
 ### Tech Education D-Coded
-Brandy Foster, Kyle Ofori
+Brandy Foster [@bcwf](https://twitter.com/bcwf), Kyle Ofori [@KyleOfori](https://twitter.com/KyleOfori)
 
 ## 1pm
 
@@ -135,18 +135,18 @@ Slides - [https://github.com/geekygirlsarah/talk-a_primer_on_functional_programm
 Video - Will be posted shortly
 
 ### Your App in Spotlight: Harnessing the Power of the Search APIs
-Tobi Adebisi
+Tobi Adebisi [@Olorun_Tobi](https://twitter.com/Olorun_Tobi)
 
 ## 2pm
 
 ### The Open Source Survival Guide
-Coraline Ada Ehmke
+Coraline Ada Ehmke [@CoralineAda](https://twitter.com/CoralineAda)
 
 ### Frameworks for Feedback
 Rebecca Miller-Webster
 
 ### Web Accessibility: How to Be an A11y
-Aisha Blake
+Aisha Blake [@AishaBlake](https://twitter.com/AishaBlake)
 
 ## 3pm
 
@@ -162,7 +162,7 @@ Nell Shamrell-Harrington
 ## 4pm
 
 ### Package Management as Harm Reduction
-Sam Boyer
+Sam Boyer [@sdboyer](https://twitter.com/sdboyer)
 
 ### Maintaining Continuous Learning Under Pressure: How not to let design slip with tight delivery deadlines
 Rosemary King

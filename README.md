@@ -83,6 +83,7 @@ Anne Cahalan
 
 ### Becoming Less Horrible at Diversity
 Katie Miller [@phedinkus](https://twitter.com/phedinkus), Todd Kaufman [@toddkaufman](https://twitter.com/toddkaufman)
+* [slides](https://speakerdeck.com/toddkaufman/becoming-less-horrible-at-diversity)
 
 ### Inclusion & Accessibility on the Web: Harnessing Dev Power for Good
 Alison Stanton [@alison985](https://twitter.com/alison985)
